@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097210691897",
+    "project_id": "cipherx-59e10",
+    "storage_bucket": "cipherx-59e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097210691897:android:e28d4fdbfbec9306f728e8",
+        "android_client_info": {
+          "package_name": "com.example.cipherx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-A10Ntw2nzGeB765k1R7u6_iFna7Sl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
